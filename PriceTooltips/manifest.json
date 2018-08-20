@@ -1,7 +1,7 @@
 ﻿{
    "Name": "PriceTooltips",
    "Author": "Darkhax",
-   "Version": "1.0.1",
+   "Version": "1.0.2",
    "Description": "Adds the sell price of an item to the tooltip.",
    "UniqueID": "darkhax.pricetooltip",
    "EntryDll": "PriceTooltips.dll",
@@ -9,6 +9,6 @@
    "UpdateKeys": ["GitHub:Stardew-Valley-Modding/PriceTooltips"],
    	"Dependencies": [{
 		"UniqueID": "darkhax.bookcase",
-		"MinimumVersion": "0.3.0"
+		"MinimumVersion": "0.4.0"
 	}]
 }
